@@ -1,0 +1,73 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Hello World",
+      "body": "This is Body"
+    },
+    {
+      "id": 2,
+      "title": "Hello World",
+      "body": "This is Body"
+    },
+    {
+      "id": 3,
+      "title": "Hello World",
+      "body": "This is Body"
+    },
+    {
+      "id": 4,
+      "title": "Hello World",
+      "body": "This is Body"
+    },
+    {
+      "id": 5,
+      "title": "Hello World",
+      "body": "This is Body"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "age": "12",
+      "name": "Rendy",
+      "email": "ren@gmail.com"
+    },
+    {
+      "id": 2,
+      "age": 20,
+      "name": "Yanto",
+      "email": "yanto@example.com"
+    },
+    {
+      "id": 3,
+      "age": "300",
+      "name": "marsudi",
+      "email": "marsudi.example.com"
+    },
+    {
+      "age": "25",
+      "name": "Yanti",
+      "email": "yanti@example.com",
+      "id": 4
+    },
+    {
+      "age": "16",
+      "name": "Rio",
+      "email": "rio@example.com",
+      "id": 5
+    },
+    {
+      "age": "12",
+      "name": "asep",
+      "email": "ase@email.com",
+      "id": 6
+    },
+    {
+      "name": "17",
+      "age": "Suci",
+      "email": "suc@gemail.com",
+      "id": 7
+    }
+  ]
+}
